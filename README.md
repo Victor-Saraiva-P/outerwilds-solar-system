@@ -1,4 +1,4 @@
-# Outer Wilds Orbits — Visualização Interativa em C + OpenGL
+# Outer Wilds Solar System — Visualização Interativa em C + OpenGL
 
 Este projeto representa de forma estilizada o sistema solar de **Outer Wilds**, focando apenas nas **órbitas dinâmicas** dos corpos celestes.
 
